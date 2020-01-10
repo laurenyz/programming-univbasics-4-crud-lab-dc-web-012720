@@ -23,7 +23,7 @@ end
 
 def remove_element_from_start_of_array(array)
   colors = ["wow", "blue", "red", "green", "yellow"]
-  colors.shiftl
+  colors.shift
 end
 
 def retrieve_element_from_index(array, index_number)
